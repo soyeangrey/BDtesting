@@ -264,7 +264,6 @@ prophet==1.1.1
 proto-plus==1.22.1
 protobuf==3.19.6
 psutil==5.4.8
-psycopg2==2.9.5
 psygnal==0.6.1
 ptyprocess==0.7.0
 py==1.11.0
